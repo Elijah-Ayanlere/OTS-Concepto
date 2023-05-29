@@ -174,7 +174,7 @@ span{
 .logo{
     position: absolute;
     /* border: 2px solid red; */
-    background-image: url(Image/ZOElogo.jpg);
+    background-image: url(Image/OTS\ concepto.png);
     background-size: cover;
     background-repeat: no-repeat;
     top: 120px;
@@ -389,7 +389,7 @@ span a{
     position: absolute;
     z-index: 10;
     /* border: 2px solid red; */
-    background-image: url(Image/ZOE.jpg);
+    background-image: url(Image/OTS\ 3.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position-x: 300px;
@@ -632,7 +632,7 @@ span a{
     .logo{
         position: absolute;
         /* border: 2px solid red; */
-        background-image: url(Image/ZOElogo.jpg);
+        background-image: url(Image/OTS\ concepto.png);
         background-size: cover;
         background-repeat: no-repeat;
         top: 50px;
@@ -828,7 +828,7 @@ span a{
         position: absolute;
         z-index: 10;
         /* border: 2px solid red; */
-        background-image: url(Image/ZOE.jpg);
+        background-image: url(Image/OTS\ 3.jpg);
         background-size: contain;
         background-repeat: no-repeat;
         background-position-x: -1px;
